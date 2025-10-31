@@ -1,26 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hannah Shafer</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Hello, I’m Hannah Shafer, a PhD candidate at the University of Vermont.</h1>
-  <p>Welcome to my website!</p>
-  
-<main>
-    <section>
-      <h2>About Me</h2>
-      <p>My research lies in the evolutionary developmental biology of temperate grasses (e.g. barley), with a focus on phenology and genetic flowering pathways.</p>
-    </section>
+---
+title: "Hannah Shafer"
+output: 
+  html_document:
+    css: style.css
+---
 
-    <section>
-      <h2>Contact</h2>
-      <p>Email: hannah.shafer@uvm.edu</p>
-      <p>LinkedIn: https://www.linkedin.com/in/hannah-r-shafer/</p>
-    </section>
-  </main>
-</body>
-</html>
+
+# Hello, I’m Hannah Shafer, a PhD candidate at the University of Vermont.
+
+Welcome to my website!
+
+## About Me
+
+My research lies in the evolutionary developmental biology of temperate grasses (e.g. barley), with a focus on phenology and genetic flowering pathways.
+
+## Contact
+
+- **Email:** hannah.shafer@uvm.edu
+- **LinkedIn:** [linkedin.com/in/hannah-r-shafer](https://www.linkedin.com/in/hannah-r-shafer/)
